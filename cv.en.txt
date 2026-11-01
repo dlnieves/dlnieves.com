@@ -4,7 +4,7 @@ https://dlnieves.com/
 david@dlnieves.com
 https://www.linkedin.com/in/david-leonardo-nieves-naranjo/
 
-I’m a senior engineer based in Spain. I’ve built and deployed software since 2009. My focus is DevOps and optimization. I use AI to automate operations, improve performance and reduce infrastructure costs. I’m currently working with the team at NextBrain AI.
+I build AI systems and make software run better. I connect AI to your company’s knowledge and existing software so your team can get answers and automate work. I turn documents into usable data and deploy predictive models for business decisions. As a senior engineer, I handle integration, deployment and DevOps, with a focus on reliability, performance and running costs.
 
 FOCUS
 I help teams automate operations, improve performance and reduce infrastructure costs with AI.

@@ -1,6 +1,6 @@
 # David L. Nieves
 
-> I’m David L. Nieves, a senior engineer in Spain. I solve software and infrastructure problems through DevOps, optimization and practical use of AI.
+> I’m David L. Nieves. I build AI systems, automate business workflows and improve software performance, reliability and running costs.
 
 ## Profile
 
