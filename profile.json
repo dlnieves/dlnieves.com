@@ -11,7 +11,12 @@
     "country": "Spain",
     "countryCode": "ES"
   },
-  "summary": "I’m a senior engineer based in Spain. I’ve built and deployed software since 2009. Today, I focus on DevOps and optimization, using AI to investigate problems, automate work and implement improvements.",
+  "summary": "I’m a senior engineer based in Spain. I’ve built and deployed software since 2009. My focus is DevOps and optimization. I use AI to automate operations, improve performance and reduce infrastructure costs. I’m currently working with the team at NextBrain AI.",
+  "currentWork": {
+    "organization": "NextBrain AI",
+    "url": "https://nextbrain.ai/",
+    "statement": "I’m currently working with the team at NextBrain AI."
+  },
   "professionalProfiles": [
     {
       "network": "LinkedIn",

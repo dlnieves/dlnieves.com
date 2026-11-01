@@ -4,10 +4,10 @@ https://dlnieves.com/es/
 david@dlnieves.com
 https://www.linkedin.com/in/david-leonardo-nieves-naranjo/
 
-Soy un ingeniero senior en España. Desarrollo y despliego software desde 2009. Hoy me centro en DevOps y optimización, utilizando IA para investigar problemas, automatizar trabajo e implementar mejoras.
+Soy un ingeniero senior en España. Desarrollo y despliego software desde 2009. Me centro en DevOps y optimización. Utilizo IA para automatizar operaciones, mejorar el rendimiento y reducir los costes de infraestructura. Actualmente trabajo con el equipo de NextBrain AI.
 
 ESPECIALIDAD
-Ayudo a mejorar despliegues, infraestructura y rendimiento del software, utilizando IA como apoyo para el análisis, la automatización y la implementación.
+Ayudo a automatizar operaciones, mejorar el rendimiento y reducir los costes de infraestructura con IA.
 
 Infraestructura y despliegues
 Servidores Linux, Nginx, Docker, entornos en la nube y procesos de despliegue. Entender cómo funciona el sistema y facilitar su operación.
