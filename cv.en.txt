@@ -1,0 +1,56 @@
+David L. Nieves
+DevOps · System optimization · Applied AI
+https://dlnieves.com/
+david@dlnieves.com
+https://www.linkedin.com/in/david-leonardo-nieves-naranjo/
+
+I’m a senior engineer based in Spain. I’ve built and deployed software since 2009. Today, I focus on DevOps and optimization, using AI to investigate problems, automate work and implement improvements.
+
+FOCUS
+I help teams improve deployments, infrastructure and software performance, using AI to support analysis, automation and implementation.
+
+Infrastructure & deployments
+Linux servers, Nginx, Docker, cloud environments and deployment workflows. Understand how the system runs and make it easier to operate.
+
+Performance & operating costs
+Review application behavior, database queries and resource use. Identify bottlenecks and unnecessary work before adding more infrastructure.
+
+AI in real workflows
+Deploy models, connect APIs and automate repetitive tasks. Apply AI to a defined problem, with maintainable software around it.
+
+EXPERIENCE
+
+Backend & AI Developer | Touchpix
+Started August 2023 | Valencia, Spain
+* Implemented and deployed Node.js and Python APIs using pretrained image-generation models.
+* Built AI video-processing workflows for slow motion, upscaling and stabilization.
+* Deployed backend services and integrated payment gateways.
+Node.js, Python, PHP, AWS, DigitalOcean, Nginx, AI models
+
+Fullstack Developer | PINOSTOYS S.L.
+2020 to August 2023 | Valencia, Spain
+* Developed web tools for audio and video processing.
+* Built speech recognition, automatic translation and dubbing workflows with Python, AI models and cloud APIs.
+Python, TypeScript, React, PHP, Symfony, MySQL, AWS, Google Cloud, OpenAI
+
+Fullstack Developer | WordPress development
+2019 to 2020
+* Developed, deployed and supported WordPress websites.
+WordPress, PHP, MySQL, JavaScript, HTML, CSS, REST APIs
+
+Fullstack Developer | Meteorological Institute
+2014 to 2018 | Holguín, Cuba
+* Developed internal weather forecasting and monitoring applications using SYNOP and NOAA formats.
+* Developed and deployed early-warning software for coastal automatic weather stations.
+PostgreSQL, Ruby on Rails, Node.js, PHP, JavaScript, REST APIs
+
+TECHNICAL SKILLS
+Infrastructure & delivery: Linux, Nginx, Docker, AWS, DigitalOcean, Git, PHP-FPM
+AI & automation: AI model deployment, Python, Node.js, OpenAI, Image & video processing, Workflow automation
+Software & data: PHP, Symfony, JavaScript, TypeScript, React, REST APIs, PostgreSQL, MySQL, SQLite
+Integrations: Stripe, Polar.sh, Brevo, CRM integrations, Third-party APIs
+
+LANGUAGES
+Spanish · Native
+English · Fluent
+French · DELF B1

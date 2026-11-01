@@ -1,0 +1,173 @@
+{
+  "name": "David L. Nieves",
+  "url": "https://dlnieves.com/",
+  "email": "david@dlnieves.com",
+  "focus": [
+    "DevOps",
+    "System optimization",
+    "Applied AI"
+  ],
+  "location": {
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  "summary": "I’m a senior engineer based in Spain. I’ve built and deployed software since 2009. Today, I focus on DevOps and optimization, using AI to investigate problems, automate work and implement improvements.",
+  "professionalProfiles": [
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-leonardo-nieves-naranjo/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "DELF B1"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Infrastructure & delivery",
+      "keywords": [
+        "Linux",
+        "Nginx",
+        "Docker",
+        "AWS",
+        "DigitalOcean",
+        "Git",
+        "PHP-FPM"
+      ]
+    },
+    {
+      "name": "AI & automation",
+      "keywords": [
+        "AI model deployment",
+        "Python",
+        "Node.js",
+        "OpenAI",
+        "Image & video processing",
+        "Workflow automation"
+      ]
+    },
+    {
+      "name": "Software & data",
+      "keywords": [
+        "PHP",
+        "Symfony",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "REST APIs",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Integrations",
+      "keywords": [
+        "Stripe",
+        "Polar.sh",
+        "Brevo",
+        "CRM integrations",
+        "Third-party APIs"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "organization": "Touchpix",
+      "role": "Backend & AI Developer",
+      "startDate": "2023-08",
+      "period": "Started August 2023",
+      "location": "Valencia, Spain",
+      "organizationUrl": "https://touchpix.com/",
+      "highlights": [
+        "Implemented and deployed Node.js and Python APIs using pretrained image-generation models.",
+        "Built AI video-processing workflows for slow motion, upscaling and stabilization.",
+        "Deployed backend services and integrated payment gateways."
+      ],
+      "technologies": [
+        "Node.js",
+        "Python",
+        "PHP",
+        "AWS",
+        "DigitalOcean",
+        "Nginx",
+        "AI models"
+      ]
+    },
+    {
+      "organization": "PINOSTOYS S.L.",
+      "role": "Fullstack Developer",
+      "startDate": "2020",
+      "endDate": "2023-08",
+      "period": "2020 to August 2023",
+      "location": "Valencia, Spain",
+      "highlights": [
+        "Developed web tools for audio and video processing.",
+        "Built speech recognition, automatic translation and dubbing workflows with Python, AI models and cloud APIs."
+      ],
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "React",
+        "PHP",
+        "Symfony",
+        "MySQL",
+        "AWS",
+        "Google Cloud",
+        "OpenAI"
+      ]
+    },
+    {
+      "role": "Fullstack Developer",
+      "startDate": "2019",
+      "endDate": "2020",
+      "period": "2019 to 2020",
+      "highlights": [
+        "Developed, deployed and supported WordPress websites."
+      ],
+      "technologies": [
+        "WordPress",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "REST APIs"
+      ]
+    },
+    {
+      "organization": "Meteorological Institute",
+      "role": "Fullstack Developer",
+      "startDate": "2014",
+      "endDate": "2018",
+      "period": "2014 to 2018",
+      "location": "Holguín, Cuba",
+      "highlights": [
+        "Developed internal weather forecasting and monitoring applications using SYNOP and NOAA formats.",
+        "Developed and deployed early-warning software for coastal automatic weather stations."
+      ],
+      "technologies": [
+        "PostgreSQL",
+        "Ruby on Rails",
+        "Node.js",
+        "PHP",
+        "JavaScript",
+        "REST APIs"
+      ]
+    }
+  ],
+  "pages": {
+    "en": "https://dlnieves.com/",
+    "es": "https://dlnieves.com/es/"
+  }
+}

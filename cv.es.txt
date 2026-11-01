@@ -1,0 +1,56 @@
+David L. Nieves
+DevOps · Optimización de sistemas · IA aplicada
+https://dlnieves.com/es/
+david@dlnieves.com
+https://www.linkedin.com/in/david-leonardo-nieves-naranjo/
+
+Soy un ingeniero senior en España. Desarrollo y despliego software desde 2009. Hoy me centro en DevOps y optimización, utilizando IA para investigar problemas, automatizar trabajo e implementar mejoras.
+
+ESPECIALIDAD
+Ayudo a mejorar despliegues, infraestructura y rendimiento del software, utilizando IA como apoyo para el análisis, la automatización y la implementación.
+
+Infraestructura y despliegues
+Servidores Linux, Nginx, Docker, entornos en la nube y procesos de despliegue. Entender cómo funciona el sistema y facilitar su operación.
+
+Rendimiento y costes operativos
+Revisar el comportamiento de la aplicación, las consultas y el uso de recursos. Identificar cuellos de botella y trabajo innecesario antes de ampliar la infraestructura.
+
+IA en procesos reales
+Desplegar modelos, conectar APIs y automatizar tareas repetitivas. Aplicar IA a un problema definido, con software que se pueda mantener.
+
+EXPERIENCIA
+
+Desarrollador backend e IA | Touchpix
+Inicio: agosto de 2023 | Valencia, Spain
+* Implementación y despliegue de APIs en Node.js y Python con modelos preentrenados de generación de imágenes.
+* Desarrollo de procesos de vídeo con IA para cámara lenta, aumento de resolución y estabilización.
+* Despliegue de servicios backend e integración de pasarelas de pago.
+Node.js, Python, PHP, AWS, DigitalOcean, Nginx, Modelos de IA
+
+Desarrollador fullstack | PINOSTOYS S.L.
+2020 a agosto de 2023 | Valencia, Spain
+* Desarrollo de herramientas web para el procesamiento de audio y vídeo.
+* Implementación de reconocimiento de voz, traducción automática y doblaje con Python, modelos de IA y APIs en la nube.
+Python, TypeScript, React, PHP, Symfony, MySQL, AWS, Google Cloud, OpenAI
+
+Desarrollador fullstack | Desarrollo con WordPress
+2019 a 2020
+* Desarrollo, despliegue y soporte de sitios web con WordPress.
+WordPress, PHP, MySQL, JavaScript, HTML, CSS, REST APIs
+
+Desarrollador fullstack | Instituto de Meteorología
+2014 a 2018 | Holguín, Cuba
+* Desarrollo de aplicaciones internas de pronóstico y seguimiento meteorológico con formatos SYNOP y NOAA.
+* Desarrollo y despliegue de software de alerta temprana para estaciones meteorológicas automáticas en zonas costeras.
+PostgreSQL, Ruby on Rails, Node.js, PHP, JavaScript, REST APIs
+
+TECNOLOGÍAS
+Infraestructura y despliegue: Linux, Nginx, Docker, AWS, DigitalOcean, Git, PHP-FPM
+IA y automatización: Despliegue de modelos de IA, Python, Node.js, OpenAI, Procesamiento de imagen y vídeo, Automatización de procesos
+Software y datos: PHP, Symfony, JavaScript, TypeScript, React, REST APIs, PostgreSQL, MySQL, SQLite
+Integraciones: Stripe, Polar.sh, Brevo, Integraciones con CRM, APIs de terceros
+
+IDIOMAS
+Español · Nativo
+Inglés · Fluido
+Francés · DELF B1

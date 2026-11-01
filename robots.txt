@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dlnieves.com/sitemap.xml

@@ -1,0 +1,16 @@
+# David L. Nieves
+
+> I’m David L. Nieves, a senior engineer in Spain. I solve software and infrastructure problems through DevOps, optimization and practical use of AI.
+
+## Profile
+
+- [English profile and experience](https://dlnieves.com/)
+- [Perfil y experiencia en español](https://dlnieves.com/es/)
+- [Structured professional profile](https://dlnieves.com/profile.json)
+- [English text CV](https://dlnieves.com/cv.en.txt)
+- [CV en español](https://dlnieves.com/cv.es.txt)
+- [LinkedIn](https://www.linkedin.com/in/david-leonardo-nieves-naranjo/)
+
+## Contact
+
+david@dlnieves.com
